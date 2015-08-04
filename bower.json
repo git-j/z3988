@@ -1,0 +1,22 @@
+{
+  "name": "z3988",
+  "version": "0.0.1",
+  "authors": [
+    "git-j <git-j@refeus.de>"
+  ],
+  "description": "Z3988 and Context Objects for comfortable use of clipboard data in a webkit based rich-text-editor application",
+  "main": "index.js",
+  "keywords": [
+    "z3988",
+    "openurl"
+  ],
+  "license": "MIT",
+  "homepage": "https://refeus.de",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

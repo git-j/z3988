@@ -1,0 +1,24 @@
+{
+  "name": "z3988",
+  "version": "1.0.0",
+  "description": "\"Z3988 and Context Objects for comfortable use of clipboard dat",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-j/z3988.git"
+  },
+  "keywords": [
+    "z39.88",
+    "z3988",
+    "openurl"
+  ],
+  "author": "git-j <git-j@refeus.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/git-j/z3988/issues"
+  },
+  "homepage": "https://github.com/git-j/z3988#readme"
+}
