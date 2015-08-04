@@ -11,7 +11,7 @@ COinS uses the class attribute of spans to identify context objects and embeds i
 
 ## content of a context object
 
-a real specification about which attributes are supported for specific context objects is missing. The original documentation describes Books (http://ocoins.info/cobgbook.html) and JournalArticles (http://ocoins.info/cobgbook.html). 
+a real specification about which attributes are supported for specific context objects is missing. The original documentation describes Books (http://ocoins.info/cobgbook.html) and JournalArticles (http://ocoins.info/cobg.html). 
 
 # use of Z3988 library
 
